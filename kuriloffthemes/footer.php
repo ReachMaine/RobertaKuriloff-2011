@@ -23,7 +23,7 @@
 			?>
 
 			<div id="site-generator">
-					&copy; 2014 Roberta S. Kuriloff&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Site Design by <a href="http://www.maineauthorspublishing.com/" target="_blank">Maine Authors Publishing</a>
+					&copy; <?php echo date("Y"); ?> Roberta S. Kuriloff&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Site Design by <a href="http://www.maineauthorspublishing.com/" target="_blank">Maine Authors Publishing</a>
 			</div>
 	</footer><!-- #colophon -->
 </div><!-- #page -->

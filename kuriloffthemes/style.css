@@ -14,7 +14,7 @@ Text Domain: twentyeleven
 
 @import url("../../twentyeleven/style.css");
 
-@import url(http://fonts.googleapis.com/css?family=Libre+Baskerville:400,700,400italic);
+@import url(https://fonts.googleapis.com/css?family=Libre+Baskerville:400,700,400italic);
 /* =Reset default browser CSS. Based on work by Eric Meyer: http://meyerweb.com/eric/tools/css/reset/index.html
 
 -------------------------------------------------------------- */
@@ -2243,7 +2243,7 @@ p.comment-form-comment {
 #colophon {
 	clear: both;
 	background-color: #f6eed4
-	
+
 #supplementary {
 	border-top: 1px solid #ddd;
 	padding: 1.625em 7.6%;
